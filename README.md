@@ -1,2 +1,5 @@
  # nature 
- @ world
+ Greatness
+ Hardwork
+ Discipline
+ 
